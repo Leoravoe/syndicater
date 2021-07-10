@@ -62,13 +62,13 @@ class BuyForm extends Component {
           <div className="input-group-append">
             <div className="input-group-text">
               <img src={tokenLogo} height='32' alt=""/>
-              &nbsp; 100 A Tokens
+              &nbsp; A Tokens
             </div>
           </div>
         </div>
         <div className="mb-5">
           <span className="float-left text-muted">Exchange Rate</span>
-          <span className="float-right text-muted">1 ETH = A Tokens</span>
+          <span className="float-right text-muted">1 ETH = 100 A Tokens</span>
         </div>
         <button type="submit" className="btn btn-primary btn-block btn-lg">TRANSACT</button>
       </form>
