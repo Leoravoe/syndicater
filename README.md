@@ -161,10 +161,10 @@ Run the following commands to see that *your local copy* has a reference to *you
 
 ```sh
 $ git remote -v
-origin  https://github.com/Your_Username/Syndicater.git (fetch)
-origin  https://github.com/Your_Username/Syndicater.git (push)
+origin  https://github.com/Your_Username/syndicater.git (fetch)
+origin  https://github.com/Your_Username/syndicater.git (push)
 ```
-Now, lets add a reference to the original [e-Voting](https://github.com/rollexxx23/e-Voting) repository using
+Now, lets add a reference to the original [syndicater](https://github.com/arghya1912/syndicater) repository using
 
 ```sh
 $ git remote add upstream https://github.com/arghya1912/syndicater.git
@@ -176,8 +176,8 @@ See the changes using
 
 ```sh
 $ git remote -v
-origin    https://github.com/Your_Username/Syndicater.git (fetch)
-origin    https://github.com/Your_Username/Syndicater.git (push)
+origin    https://github.com/Your_Username/syndicater.git (fetch)
+origin    https://github.com/Your_Username/syndicater.git (push)
 upstream  https://github.com/arghya1912/syndicater.git (fetch)
 upstream https://github.com/arghya1912/syndicater.git![Syndicater](https://user-images.githubusercontent.com/71402528/114308981-4df45f00-9b03-11eb-9928-8028aaf2bd15.jpg)
 /syndicater.git (push)
@@ -266,8 +266,10 @@ Then add a title and description to your pull request that explains your preciou
 <h2 align="center" id="DevelopedBy"> :label: Developed By</h2>
     
    :arrow_right: [Souvik Choudhury](https://github.com/SouvikChoudhury360)
+   (JU MECHANICAL 1st Year)
    <br>
    :arrow_right: [Arghyadip Sengupta](https://github.com/arghya1912)
+   (JU ETCE 1st Year)
 
 
 
