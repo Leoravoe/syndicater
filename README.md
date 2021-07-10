@@ -266,10 +266,10 @@ Then add a title and description to your pull request that explains your preciou
 <h2 align="center" id="DevelopedBy"> :label: Developed By</h2>
     
    :arrow_right: [Souvik Choudhury](https://github.com/SouvikChoudhury360)
-   (JU MECHANICAL 1st Year)
+      (JU MECHANICAL 1st Year)
    <br>
    :arrow_right: [Arghyadip Sengupta](https://github.com/arghya1912)
-   (JU ETCE 1st Year)
+      (JU ETCE 1st Year)
 
 
 
@@ -283,13 +283,13 @@ Then add a title and description to your pull request that explains your preciou
 
 ![Buy_Sell_Page](https://user-images.githubusercontent.com/84338935/125175088-79ace100-e1e7-11eb-877f-09a42654979d.png)
 
-<h3 align="center"> Test Passing Page </h3>
-
-![Test_Paasing_Screenshot](https://user-images.githubusercontent.com/84338935/125175130-934e2880-e1e7-11eb-9c45-447bdc167724.png)
-
 <h3 align="center"> Transaction Processing Page </h3>
 
 ![Transaction_Processing](https://user-images.githubusercontent.com/84338935/125175139-a3660800-e1e7-11eb-8e88-530a159b2e9a.png)
+
+<h3 align="center"> All tests Passed ✔</h3>
+
+![Test_Paasing_Screenshot](https://user-images.githubusercontent.com/84338935/125175130-934e2880-e1e7-11eb-9c45-447bdc167724.png)
 
 <!--|<h3 align="center">Home Page</h3><img width="200" alt="Home Page" src="https://drive.google.com/file/d/1L1n96VT44BJGh9bBQKP8rtKDJ5pkIIZC/view?usp=sharing">-->
 
