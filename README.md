@@ -6,7 +6,7 @@
 ![kakaje](https://user-images.githubusercontent.com/84338935/125168908-65f08300-e1c5-11eb-8a27-8375de08be31.jpg)
 
 
-A Blockchain based application for Syndication Loan Sanction.
+<h2> A Blockchain based application for Syndication Loan Sanction. </h2>
 
 <h1 align="center">Helps in proper loan sanction through Syndication.</h1>
 
@@ -78,15 +78,15 @@ India. So, We, with the help of Syndicator will try to persuade people the impor
 
   #### Main Features
   
-   :point_right: UI contains Dashboard <br/>
-   :point_right: Smart contract completed <br/>
+   :point_right: simple and secure transaction system <br/>
+   :point_right: Smart contract completed & tests passed <br/>
    
 
 
    #### Future Features
   
    :point_right: Will add a login and sign up page for the users.<br/>
-   :point_right: Will try to expand debt market in India for sure.<br/>
+   :point_right: Will build a separate login system for companies to request for loans.<br/>
    
 
    ![Screenshot (23)](https://user-images.githubusercontent.com/84338935/125169476-f0d27d00-e1c7-11eb-829a-6d90fb6cbb91.png)
