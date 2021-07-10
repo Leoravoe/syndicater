@@ -62,7 +62,7 @@ class BuyForm extends Component {
           <div className="input-group-append">
             <div className="input-group-text">
               <img src={tokenLogo} height='32' alt=""/>
-              &nbsp; A Tokens
+              &nbsp; 100 A Tokens
             </div>
           </div>
         </div>
