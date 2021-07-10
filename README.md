@@ -126,7 +126,7 @@ You can download the metamak web extension from <a href="https://chrome.google.c
 You need to clone (download) it to local machine using
 
 ```sh
-$ git clone (link ta dite hobe)
+$ git clone https://github.com/arghya1912/syndicater.git
 ```
 
 > This makes a local copy of repository in your machine.
@@ -134,8 +134,8 @@ $ git clone (link ta dite hobe)
 Once you have cloned the `Syndicater` repository in Github, move to that folder first using change directory command on linux and Mac.
 
 ```sh
-# This will change directory to a folder  CropX
-$ cd e-Voting
+# This will change directory to a folder  
+$ cd Syndicater
 ```
 
 Move to this folder for all other commands.
@@ -161,13 +161,13 @@ Run the following commands to see that *your local copy* has a reference to *you
 
 ```sh
 $ git remote -v
-origin  https://github.com/Your_Username/e-Voting.git (fetch)
-origin  https://github.com/Your_Username/e-Voting.git (push)
+origin  https://github.com/Your_Username/Syndicater.git (fetch)
+origin  https://github.com/Your_Username/Syndicater.git (push)
 ```
 Now, lets add a reference to the original [e-Voting](https://github.com/rollexxx23/e-Voting) repository using
 
 ```sh
-$ git remote add upstream https://github.com/rollexxx23/e-Voting.git
+$ git remote add upstream https://github.com/arghya1912/syndicater.git
 ```
 
 > This adds a new remote named ***upstream***.
@@ -176,11 +176,11 @@ See the changes using
 
 ```sh
 $ git remote -v
-origin    https://github.com/Your_Username/e-Voting.git (fetch)
-origin    https://github.com/Your_Username/e-Voting.git (push)
-upstream  https://github.com/rollexxx23/e-Voting.git (fetch)
-upstream  https://github.com/rollexxx23/e-Voting![e-Voting](https://user-images.githubusercontent.com/71402528/114308981-4df45f00-9b03-11eb-9928-8028aaf2bd15.jpg)
-/e-Voting.git (push)
+origin    https://github.com/Your_Username/Syndicater.git (fetch)
+origin    https://github.com/Your_Username/Syndicater.git (push)
+upstream  https://github.com/arghya1912/syndicater.git (fetch)
+upstream https://github.com/arghya1912/syndicater.git![Syndicater](https://user-images.githubusercontent.com/71402528/114308981-4df45f00-9b03-11eb-9928-8028aaf2bd15.jpg)
+/syndicater.git (push)
 ```
 
 <br>
@@ -202,7 +202,7 @@ $ git checkout master
 # Reset local `master` branch to match `upstream` repository's `master` branch
 $ git reset --hard upstream/master
 
-# Push changes to your forked `e-Voting` repo
+# Push changes to your forked `Syndicater` repo
 $ git push origin master
 ```
 
