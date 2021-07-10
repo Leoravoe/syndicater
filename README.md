@@ -202,7 +202,7 @@ $ git checkout master
 # Reset local `master` branch to match `upstream` repository's `master` branch
 $ git reset --hard upstream/master
 
-# Push changes to your forked `Syndicater` repo
+# Push changes to your forked `syndicater` repo
 $ git push origin master
 ```
 
