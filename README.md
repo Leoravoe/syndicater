@@ -72,6 +72,7 @@ India. So, We, with the help of Syndicator will try to persuade people the impor
 + Web3.js +
 + TRUFFLE +
 + GANACHE +
++ Polygon (MATIC) +
 
 
 ```
