@@ -32,6 +32,7 @@
 >>>>>> `📌` [Steps to follow ](#Stepstofollow)<br>
 >>>>>>> `📌` [Developed By](#DevelopedBy)<br>
 >>>>>>>> `📌` [ScreenShots](#ScreenShots)<br>
+>>>>>>>>> `📌` [Thank you note](TimetoSayGoodBye)<br>
 ```diff
  # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 ```
