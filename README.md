@@ -3,7 +3,9 @@
 
 
 
-![kakaje](https://user-images.githubusercontent.com/84338935/125168908-65f08300-e1c5-11eb-8a27-8375de08be31.jpg)
+<!-- ![kakaje](https://user-images.githubusercontent.com/84338935/125168908-65f08300-e1c5-11eb-8a27-8375de08be31.jpg) -->
+![yndicater (2)](https://user-images.githubusercontent.com/72061687/125181389-d75e1f00-e221-11eb-82b6-8df5d17eb330.png)
+
 
 
 <h2> A Blockchain based application for Syndication Loan Sanction. </h2>
