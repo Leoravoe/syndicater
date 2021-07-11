@@ -139,11 +139,11 @@ $ git clone https://github.com/arghya1912/syndicater.git
 
 > This makes a local copy of repository in your machine.
 
-Once you have cloned the `Syndicater` repository in Github, move to that folder first using change directory command on linux and Mac.
+Once you have cloned the `syndicater` repository in Github, move to that folder first using change directory command on linux and Mac.
 
 ```sh
 # This will change directory to a folder  
-$ cd Syndicater
+$ cd syndicater
 ```
 
 Move to this folder for all other commands.
@@ -187,7 +187,7 @@ $ git remote -v
 origin    https://github.com/Your_Username/syndicater.git (fetch)
 origin    https://github.com/Your_Username/syndicater.git (push)
 upstream  https://github.com/arghya1912/syndicater.git (fetch)
-upstream https://github.com/arghya1912/syndicater.git![Syndicater](https://user-images.githubusercontent.com/71402528/114308981-4df45f00-9b03-11eb-9928-8028aaf2bd15.jpg)
+upstream https://github.com/arghya1912/syndicater.git![syndicater](https://user-images.githubusercontent.com/71402528/114308981-4df45f00-9b03-11eb-9928-8028aaf2bd15.jpg)
 /syndicater.git (push)
 ```
 
